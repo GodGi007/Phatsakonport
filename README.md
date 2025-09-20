@@ -3,7 +3,7 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
-<h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m ⟪Phasakon Chomaup⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
@@ -16,7 +16,7 @@
 - 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
 - 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
 - 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+- 📫  Reach me: **⟪MJU6504106388@mju.ac.th⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
 
 ---
 
@@ -64,7 +64,7 @@ _Add 2–4 projects max. Each row should fit on one screen._
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫  
+- 💌 Email: ⟪MJU6504106388@mju.ac.th⟫  
 - 📝 Schedule a coffee chat: ⟪Calendly link⟫  
 - 🐦 DM me on [X/Twitter](⟪url⟫)
 
