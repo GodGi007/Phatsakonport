@@ -1,17 +1,22 @@
-<!-- Banner / Cover -->
-<p align="center">
-  <img src="img/img1.jpg" alt="My Banner" width="400"/>
+<!-- 🎨 Fancy GitHub Profile README -->
 
+<!-- Banner -->
+<p align="center">
+  <img src="img/img1.jpg" alt="My Banner" width="600"/>
 </p>
 
-<h1 align="center">Phatsakon Chomaup <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<!-- Typing Header -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=👋+Hello!+I'm+Phatsakon+Chomaup;💻+System+Analysis+Enthusiast;📊+Database+%26+ERP+Learner" alt="Typing SVG" />
+</h2>
 
 <p align="center">
-  <strong>Information Technology Analyst • System Analyst Enthusiast</strong><br/>
+  <strong>Information Technology Analyst • ERP / Database Enthusiast</strong><br/>
   <em>“Analyzing requirements and transforming them into effective IT solutions.”</em>
 </p>
 
----
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## 🚀 About Me
 <p align="center">
@@ -24,12 +29,6 @@
 - 📫 Reach me at: **oamgodgi@gmail.com**
 
 <br clear="right"/>
-
----
-
-## 🎓 Education
-**Bachelor of Science in Information Technology**, Maejo University  
-*(GPA optional — include only if strong)*  
 
 ---
 
@@ -53,7 +52,7 @@
 | **Project**              | **Tech Stack**                 | **Highlights**                                                                 | **Links** |
 |---------------------------|--------------------------------|---------------------------------------------------------------------------------|-----------|
 | **ERP Workflow Analysis** | System Analysis · Documentation | • Requirement gathering <br/> • Workflow design <br/> • Database schema proposal | — |
-| **Interactive Web Board** | MySQL · PHP · HTML/CSS         | • Designed ER diagram <br/> • Created database schema <br/> • Simple CRUD ops    | — |
+| **Interactive Web Board** | MySQL · PHP · HTML/CSS         | • Designed ER diagram <br/> • Created database schema <br/> • Simple CRUD ops    | [Repo](https://github.com/PomTeeraphon/ProjectWeb) |
 | **Office Training**       | Microsoft Word · Excel · PowerPoint | • Productivity tools usage <br/> • Applied in academic reports/projects       | — |
 
 </div>
@@ -62,8 +61,13 @@
 
 ## 🍓 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PomTeeraphon&show_icons=true&count_private=true&hide_border=true&bg_color=E6F0FA,FFFFFF&title_color=0066CC&text_color=333333&icon_color=0066CC" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PomTeeraphon&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=E6F0FA,FFFFFF&title_color=0066CC&text_color=333333" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PomTeeraphon&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PomTeeraphon&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+</p>
+
+<!-- Snake Contribution -->
+<p align="center">
+  <img src="https://github.com/PomTeeraphon/PomTeeraphon/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -81,7 +85,7 @@
 
 ## 🤝 Let’s Connect
 <p align="center">
-  <a href="mailto:your-email@email.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:oamgodgi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/pomtrp_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://facebook.com/teeraphon.sukhuaypra"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
@@ -89,6 +93,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PomTeeraphon&style=flat-square&color=blue" alt="profile views"/>
 </p>
-
-
-[def]: mg
