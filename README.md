@@ -65,13 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PomTeeraphon&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
 </p>
 
-<!-- Snake Contribution -->
-<p align="center">
-  <img src="https://github.com/PomTeeraphon/PomTeeraphon/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 🎂 Fun Corner
 <p align="center">
   <img src="https://media.giphy.com/media/Pp9W9KMP5b2dJ3iNQk/giphy.gif" width="250" alt="cute cake"/>
@@ -86,8 +79,8 @@
 ## 🤝 Let’s Connect
 <p align="center">
   <a href="mailto:oamgodgi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/pomtrp_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://facebook.com/teeraphon.sukhuaypra"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/_oxm_psk/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/oamoatzagalileo"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
 <p align="center">
