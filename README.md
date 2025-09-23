@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="" alt="header image" />
+  <img src="img/img1.jpg" alt="header image" />
 </p>
 
 <h1 align="center">Phatsakon Chomaup <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 <p align="center">
-  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg4bmVzc21nMHhtdjZwdjR2d2Fjb3lnYTV0N2EzbWU3bW5hNGxwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" />
 </p>
 
 - 🌱 Currently learning **ERP Systems & Database Design**  
 - 🛠 Strong areas: **System Analysis · Documentation · Database**  
 - 🎯 2025 Goal: **Become a professional IT Analyst supporting ERP/Database projects**  
-- 📫 Reach me at: **your-email@email.com**
+- 📫 Reach me at: **oamgodgi@gmail.com**
 
 <br clear="right"/>
 
@@ -32,28 +32,28 @@
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Tech Stack & Tools
 <div align="center">
 
-| **Domain**   | **Primary** | **Comfortable** | **Exploring** |
-|--------------|-------------|-----------------|---------------|
-| **System Analysis** | Requirement Gathering, Workflow Diagram | Use Case, ER Diagram | Business Process Modeling |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) | PostgreSQL |
-| **Documentation** | Microsoft Word, Excel, PowerPoint | Microsoft Visio | Google Workspace |
-| **Programming (Basic)** | HTML, CSS, PHP | JavaScript, C | Java |
+| **Domain**             | **Primary** | **Comfortable** | **Exploring** |
+|------------------------|-------------|-----------------|---------------|
+| **System Analysis**    | Requirement Gathering, Workflow Diagram | Use Case, ER Diagram | Business Process Modeling |
+| **Database**           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
+| **Documentation**      | Microsoft Word · Excel · PowerPoint | Microsoft Visio | Google Workspace |
+| **Programming (Basic)**| HTML · CSS · PHP | JavaScript · C | Java |
 
 </div>
 
 ---
 
-## 📌 Academic / Training Projects
+## 📌 Featured Projects
 <div align="center">
 
-| **Project** | **Focus Area** | **Highlights** | **Links** |
-|-------------|----------------|----------------|-----------|
-| **ERP Workflow Analysis** | System Analysis · Documentation | • Requirement gathering <br/>• Workflow design <br/>• Database schema proposal | — |
-| **Interactive Web Board** | Database · Web Development | • Designed ER diagram <br/>• Created database schema <br/>• Simple CRUD operations | [Repo](https://github.com/PomTeeraphon/ProjectWeb) |
-| **Office Training** | Productivity Tools | • Microsoft Word/Excel/PowerPoint usage <br/>• Applied in academic reports and projects | — |
+| **Project**              | **Tech Stack**                 | **Highlights**                                                                 | **Links** |
+|---------------------------|--------------------------------|---------------------------------------------------------------------------------|-----------|
+| **ERP Workflow Analysis** | System Analysis · Documentation | • Requirement gathering <br/> • Workflow design <br/> • Database schema proposal | — |
+| **Interactive Web Board** | MySQL · PHP · HTML/CSS         | • Designed ER diagram <br/> • Created database schema <br/> • Simple CRUD ops    | [Repo](https://github.com/PomTeeraphon/ProjectWeb) |
+| **Office Training**       | Microsoft Word · Excel · PowerPoint | • Productivity tools usage <br/> • Applied in academic reports/projects       | — |
 
 </div>
 
@@ -88,3 +88,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PomTeeraphon&style=flat-square&color=blue" alt="profile views"/>
 </p>
+
+
+[def]: mg
