@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="img/img1.jpg" alt="My Banner" width="600"/>
+  <img src="img/img1.jpg" alt="My Banner" width="400"/>
 </p>
 
 <!-- Typing Header -->
@@ -52,7 +52,7 @@
 | **Project**              | **Tech Stack**                 | **Highlights**                                                                 | **Links** |
 |---------------------------|--------------------------------|---------------------------------------------------------------------------------|-----------|
 | **ERP Workflow Analysis** | System Analysis · Documentation | • Requirement gathering <br/> • Workflow design <br/> • Database schema proposal | — |
-| **Interactive Web Board** | MySQL · PHP · HTML/CSS         | • Designed ER diagram <br/> • Created database schema <br/> • Simple CRUD ops    | [Repo](https://github.com/PomTeeraphon/ProjectWeb) |
+| **Interactive Web Board** | MySQL · PHP · HTML/CSS         | • Designed ER diagram <br/> • Created database schema <br/> • Simple CRUD ops    | — |
 | **Office Training**       | Microsoft Word · Excel · PowerPoint | • Productivity tools usage <br/> • Applied in academic reports/projects       | — |
 
 </div>
