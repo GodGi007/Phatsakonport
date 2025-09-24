@@ -37,7 +37,7 @@
 
 | **Domain**   | **Primary** | **Comfortable** | **Exploring** |
 |--------------|-------------|-----------------|---------------|
-| **System Analysis** |  | [ERD](https://img.shields.io/badge/ER-Diagram-yellow) |  |
+| **System Analysis**  | [ERD](https://img.shields.io/badge/ER-Diagram-yellow) |  
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) |  |
 | **Documentation** | ![Word](https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white) | ![Visio](https://img.shields.io/badge/Visio-3955A3?logo=microsoftvisio&logoColor=white) | ![Google Workspace](https://img.shields.io/badge/Google-Workspace-4285F4?logo=google&logoColor=white) |
 | **Programming (Basic)** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) |
